@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where a function attempts to return a string value when the return type is specified as number.  The error message is helpful and directs you to the line causing the issue.  The solution shows how to properly type the function or handle the different types involved.
